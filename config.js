@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
-global.owner = [
+global.owner = 54 236343
   ['50578229009', 'Shinoa Bot', true],
   ['50576796164'],
  
